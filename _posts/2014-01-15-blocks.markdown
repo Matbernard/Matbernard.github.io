@@ -16,4 +16,4 @@ Voilà comment fonctionne les **blocs** sur Ruby.
 
 Va sur BeMyBoat mec [BeMyBoat][bemyboat] pour plus d'infos.
 
-[bemyboat]: https://www.bemyboat.com
+[bemyboat]: http://fr.bemyboat.com/
