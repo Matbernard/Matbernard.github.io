@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Mathieu est dans les blocs sur Ruby"
+date:   2014-01-15 10:44:32
+---
+
+# Explications
+
+Voilà comment fonctionne les **blocs** sur Ruby.
+
+# Exemple
+
+{% highlight ruby %}
+
+{% endhighlight %}
+
+Va sur BeMyBoat mec [BeMyBoat][bemyboat] pour plus d'infos.
+
+[bemyboat]: https://www.bemyboat.com
